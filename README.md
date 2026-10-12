@@ -1,6 +1,29 @@
 Homepage for the server of SHENRON.asi, a tool developed for Dragon Ball FighterZ: KAI to further expand the modding scenes capabilities. 
 
-DBFZ: KAI is a full redux of modern DBFZ with a return to form of the design philosophy of older versions, while still retaining many of the new ideas brought in later iterations of the game. Alongside that, DBFZ:K welcomes many unique battle system changes for old and new players to experience alike! EVERY single aspect has been reviewed and adjusted, with many more updates to come!  
+About SHENRON
+--
+SHENRON is a memory editing tool which hooks directly to your RED-Win64-Shipping-eac-nop-loaded on launch. SHENRON then "catches" this information and edits it in various ways. The name comes from the idea that with this information, SHENRON can grant any wish we desire as long as we know the limitations (aka actually knowing the vtable addresses in game)
+
+Current capabilities:
+1. Steam Lobbies
+   a. SHENRON creates a empty, hidden Steam Lobby upon launch of DBFZ. This lobby is completely separate from Ring Match Lobbies or any form of general online play and is simply used as a reference point for SHENRON to read regarding DBFZK. This allows us to have a player count of exactly how many people are on Kai as well as make sure that information sent is only given to players with SHENRON installed (to avoid any conflicts with official material). This is planned for much more in the future -such as having KAI players in a unique Casual Match queue so that finding players becomes even simpler - but for handles getting game information passed along between players in a simple manner.
+
+2. Steam Invite Links
+   a. SENDING INVITE LINKS:
+     Press F1 while inside a Ring Match Lobby to copy an invite link to your clipboard. This is able to be Ctrl+V Pasted anywhere as a unique link (ie. kai://join/109775244942703337/76561198314561771 ) allowing players to join!
+   b. RECEIVING INVITE LINKS
+     With the DBFZ KAI open:
+       Highlight and copy the invite link to your clipboard, once in the main hub Press Ctrl+F1 to have SHENRON prime the search results with your clipboard's latest invite link. Then simply go to Party Match Search within the World Hub (Kame's House in the top left corner) and begin a search. The parameters do not matter. From there the Invitee's Ring Match will appear for you to join!
+     With the game closed: 
+     Press Windows+R or your computers equivalent to open the Run program and simply paste in the invite link. This will open up DBFZK and same as above press Ctrl+F1 in the Main Hub and simply perform a Party Match Search and you will be able to connect from there!
+
+3. Custom News Letter
+   a. The Latest News Announcer now receives Custom News Letters from the kai_news.txt. SHENRON scans for the newest news letter every hour and automatically updates it in game! Patch Notes will exist here alongside the changelog allowing players to see the latest updates as KAI continues to grow and develop
+
+4. Custom Training Mode Options (WIP)
+   a. Currently work in progress, SHENRON will be gaining the ability to allow custom training mode options by emulating GGPO features while offline. The currently planned features are Save State / Load State done by replicating DBFZ's GGPO method of doing such in an offline matter, and hooking it to the Recording Slots within training mode. The ground work is already done, however it is currently disabled in SHENRON until it's fully completed.
+   
+DBFZ: KAI is a full redux of modern DBFZ with a return to form of the design philosophy of older versions, while still retaining many of the new ideas brought in later iterations of the game. Alongside that, DBFZ:K welcomes many unique battle system changes for old and new players to experience alike! EVERY single aspect has been reviewed and adjusted, with many more updates to come!
 
 Major changes include: 
 Overall damage output reduced 
