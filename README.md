@@ -1,8 +1,12 @@
 Homepage SHENRON.asi, a tool developed for Dragon Ball FighterZ: KAI to further expand the modding scenes capabilities. 
 
-About SHENRON
+What is SHENRON? 
 =
 SHENRON is a memory editing tool which hooks directly to your RED-Win64-Shipping-eac-nop-loaded on launch. SHENRON then "catches" this information and edits it in various ways. The name comes from the idea that with this information, SHENRON can grant any wish we desire as long as we know the limitations (aka actually knowing the vtable addresses in game)
+
+Installing SHENRON
+=
+Download SHENRON.asi and place the file within DBFZ's plugins folder. Typically it is located C:\Program Files (x86)\Steam\steamapps\common\DRAGON BALL FighterZ\RED\Binaries\Win64\plugins , however if you have DBFZ saved somewhere else in your computer you will need to place it within the plugins folder located there. That's it! SHENRON uses it's position as a plugin to run as the game launches!
 
 Steam Lobbies
 -
