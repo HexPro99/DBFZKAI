@@ -1,0 +1,87 @@
+v0.80a
+Hit Update! 
+Bugfix
+Broly (DBS) - Fixed issue where his ex assist was not properly taking meter cost
+
+Addition
+Cooler - j2H jump cancelable on hit
+
+Addition
+Cooler - 236[S] additional hit effect midscreen
+
+Addition
+Cooler - 236M/H chip damage and hitstun increased
+
+Overhaul
+Hit - Added to the cast.. see changelog for full list of changes
+
+Optimization
+Janemba - 6H > 8A hitbox fixed
+
+Addition
+Janemba - j2H hitstun increased by 2 frames
+
+Addition
+Janemba - j214L startup reduced by 4f
+
+Bugfix
+Teen Gohan - 4L 4L added back in
+\\\ 
+v0.85a
+Cell Update!
+
+Overhaul
+KAI Visual Overhaul added - General visual overhaul to give DBFZK a unique look!
+
+This marks a major turning point for DBFZ Kai where it now gains it's own visual identity beyond the minor HUD tweaks! 
+As patches come along, more and more characters will also be receiving updated textures to better compliment the visual 
+overhaul packaged in with KAI! As version 1.0 nears closer, expect to see more and more changes added that relate outside 
+of just gameplay changes as KAI continues to solidify it's identity.
+
+-Shaud
+
+
+Overhaul
+System Mechanic - Counterhit bonuses added to select moves!
+
+Tweak
+Bardock - 214H no longer hits crouchers besides final hit
+
+Addition
+Bardock - 214H final hit now has a counterhit bonus
+
+Addition
+Cell - Added to the game! See changelog for full list of changes!
+
+Bugfix
+Hit - Fixed particle spawn location when 214X~H makes contact
+
+Adjustment
+Trunks - Shining Slash damage adjusted to be more frontloaded
+
+Addition
+SSJ Goku - 236H now has a counterhit bonus
+
+Addition
+SSJ Vegeta - 214L now has a counterhit bonus
+
+Addition
+UI Goku - 214H > L now has a counterhit bonus
+\\\
+10/12/2026 - MixMasterZ
+
+
+Thank you to all DRAGON BALL FIGHTERZ: KAI players!
+
+
+DBFZ KAI will be having its FIRST EVER tournament hosted this Thursday, October 15th, 2026 @ 8pm EST! 
+
+- Event Details
+Date: 10/15/2026 
+Time: 8:00 PM EST
+
+Please go to Start.gg/mixmasterZ to join!
+
+Hell In The Cell
+HookGangGod wins the Hell in the Cell First to 10 vs Dekillsage!
+\\\
