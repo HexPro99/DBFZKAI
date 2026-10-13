@@ -27,7 +27,9 @@ SHENRON uses an oversight within the PARTY MATCH SEARCH to allow us to connect v
 
 Custom News Letter
 -
-1. The Latest News Announcer now receives Custom News Letters from the kai_news.txt. SHENRON scans for the newest news letter every hour and automatically updates it in game! Patch Notes will exist here alongside the changelog allowing players to see the latest updates as KAI continues to grow and develop
+1. The Latest News Announcer now receives Custom News Letters from the _kai_news.txt_. SHENRON scans for the newest news letter every hour and automatically updates it in game! Patch Notes will exist here alongside the changelog allowing players to see the latest updates as KAI continues to grow and develop
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/9b10ab73-7508-40ca-b81b-d01c02d23b43" />
 
 Custom Training Mode Options (WIP)
 -
