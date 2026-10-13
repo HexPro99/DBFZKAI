@@ -16,6 +16,14 @@ Steam Invite Links
 -
 1. INVITE LINKS:
      Press F1 while inside a Ring Match Lobby to copy an invite link to your clipboard. This is able to be Ctrl+V Pasted anywhere as a unique link (ie. https://hexpro99.github.io/DBFZKAI/join.html?l=109775244982005890&o=76561198314561771 ) allowing players to join!
+2. REFRESH INVITES:
+     Press Ctrl+F1 to force reload the latest invite link accepted. Typically won't have to be used however allows manual override if for some reason the link itself crashes. Also allows loading raw Kai links (ie kai://join/109775244979936567/76561198314561771 ) if your opponent is using an older version of SHENRON
+3. CLEAR INVITES:
+     Press F2 to clear all saved invites from Shenron.
+
+SHENRON uses an oversight within the PARTY MATCH SEARCH to allow us to connect via invite links. After accepting an invite link, you will be notified via sound cue. From there, simply go to Party Match section in the hub (located in the top left by Kame's House) and select _Find a Ring Match._ From there the invitee's ring will appear at the top! Search parameters don't matter and it will also always bypass any password placed on the Ring Match as well! 
+
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/f7acb210-7ebd-4a27-b4ad-dbcbcd620c18" />
 
 Custom News Letter
 -
