@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Join a DBFZ Kai ring</title>
+<meta property="og:title" content="Join my DBFZ Kai ring">
+<meta property="og:description" content="Click to open DBFZ Kai and join the ring.">
+<style>
+  :root { --bg:#fdf0a6; --ink:#1b1b1f; --blue:#2f6fd6; --card:#ffffff; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#17171c; --ink:#f2f2f5; --blue:#6aa2ff; --card:#23232b; } }
+  html, body { margin:0; background:var(--bg); color:var(--ink); font-family:system-ui, -apple-system, "Segoe UI", sans-serif; }
+  body { min-height:100vh; display:flex; align-items:center; justify-content:center; padding:16px; box-sizing:border-box; }
+  main { background:var(--card); border-radius:14px; padding:28px 24px; max-width:440px; width:100%; box-shadow:0 6px 24px rgba(0,0,0,.18); text-align:center; }
+  h1 { font-size:1.35rem; margin:0 0 6px; }
+  p { margin:8px 0; line-height:1.45; }
+  .btn { display:inline-block; margin:14px 0 6px; padding:12px 22px; border-radius:10px; background:var(--blue); color:#fff; font-weight:700; text-decoration:none; font-size:1.05rem; }
+  .small { font-size:.85rem; opacity:.75; }
+  code { display:block; word-break:break-all; background:rgba(127,127,127,.15); padding:8px; border-radius:8px; font-size:.8rem; margin-top:8px; }
+  .err { color:#c0392b; font-weight:600; }
+</style>
+</head>
+<body>
+<main>
+  <h1>DBFZ Kai ring invite</h1>
+  <div id="ok" hidden>
+    <p>Opening DBFZ Kai&hellip;</p>
+    <a class="btn" id="open" href="#">Open in DBFZ Kai</a>
+    <p class="small">If your browser asks, allow it to open the link. You need the Kai mod (Shenron) installed, and to have started the game with it at least once.</p>
+    <code id="raw"></code>
+  </div>
+  <p id="bad" class="err" hidden>This invite link is missing or invalid.</p>
+</main>
+<script>
+(function () {
+  var q = new URLSearchParams(location.search);
+  var l = q.get('l') || '', o = q.get('o') || '';
+  // lobby id and owner are plain numbers; anything else is rejected so the page can't be used to build odd links
+  if (!/^\d{15,20}$/.test(l) || (o && !/^\d{15,20}$/.test(o))) {
+    document.getElementById('bad').hidden = false;
+    return;
+  }
+  var link = 'kai://join/' + l + (o ? '/' + o : '');
+  document.getElementById('ok').hidden = false;
+  document.getElementById('open').href = link;
+  document.getElementById('raw').textContent = link;
+  setTimeout(function () { location.href = link; }, 300);
+})();
+</script>
+</body>
+</html>
