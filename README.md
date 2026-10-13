@@ -14,13 +14,8 @@ Steam Lobbies
 
 Steam Invite Links
 -
-1. SENDING INVITE LINKS:
-     Press F1 while inside a Ring Match Lobby to copy an invite link to your clipboard. This is able to be Ctrl+V Pasted anywhere as a unique link (ie. kai://join/109775244942703337/76561198314561771 ) allowing players to join!
-2. RECEIVING INVITE LINKS
-     With the DBFZ KAI open:
-       Highlight and copy the invite link to your clipboard, once in the main hub Press Ctrl+F1 to have SHENRON prime the search results with your clipboard's latest invite link. Then simply go to Party Match Search within the World Hub (Kame's House in the top left corner) and begin a search. The parameters do not matter. From there the Invitee's Ring Match will appear for you to join!
-     With the game closed: 
-     Press Windows+R or your computers equivalent to open the Run program and simply paste in the invite link. This will open up DBFZK and same as above press Ctrl+F1 in the Main Hub and simply perform a Party Match Search and you will be able to connect from there!
+1. INVITE LINKS:
+     Press F1 while inside a Ring Match Lobby to copy an invite link to your clipboard. This is able to be Ctrl+V Pasted anywhere as a unique link (ie. https://hexpro99.github.io/DBFZKAI/join.html?l=109775244982005890&o=76561198314561771 ) allowing players to join!
 
 Custom News Letter
 -
