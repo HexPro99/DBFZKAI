@@ -37,6 +37,7 @@ Configurable training mode inputs to trigger Save States / Load States. Alongsid
 1. SAVE STATE (F3) - Saves current game state to a buffer which can be recalled at any point
 2. LOAD STATE (F4) - Loads latest game state in the buffer and overrides current one in play
 3. PLAY/RECORD TRAINING DUMMY - Press button to play recording, hold button to begin recording
+4. Pressing SAVE STATE + LOAD STATE triggers a RESET POSITION action 
 
 <img width="810" height="739" alt="image" src="https://github.com/user-attachments/assets/830994d2-d182-4ad2-b354-38d5efb5535f" />
 
