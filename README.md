@@ -33,7 +33,13 @@ Custom News Letter
 
 Custom Training Mode Options (WIP)
 -
-1. Currently work in progress, SHENRON will be gaining the ability to allow custom training mode options by emulating GGPO features while offline. The currently planned features are Save State / Load State done by replicating DBFZ's GGPO method of doing such in an offline matter, and hooking it to the Recording Slots within training mode. The ground work is already done, however it is currently disabled in SHENRON until it's fully completed.
+Configurable training mode inputs to trigger Save States / Load States. Alongside keyboard hotkeys to use if you don't have space to set it on your controller!
+1. SAVE STATE (F3) - Saves current game state to a buffer which can be recalled at any point
+2. LOAD STATE (F4) - Loads latest game state in the buffer and overrides current one in play
+3. PLAY/RECORD TRAINING DUMMY - Press button to play recording, hold button to begin recording
+
+<img width="810" height="739" alt="image" src="https://github.com/user-attachments/assets/830994d2-d182-4ad2-b354-38d5efb5535f" />
+
 
 About DBFZ: KAI
 =
