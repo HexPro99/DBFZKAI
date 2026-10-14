@@ -68,8 +68,30 @@ SSJ Vegeta - 214L now has a counterhit bonus
 Addition
 UI Goku - 214H > L now has a counterhit bonus
 \\\
+SHENRON.ASI COMPAT UPDATE v0.8.6c
+18s
+
+Bugfix
+GT Goku - Fixed issue where air dashing with the SD macro and doing j2S caused him to Super Dash
+Bugfix
+Frieza - Fixed issue where air dashing with the SD macro and doing j2S caused him to Super Dash
+Improvement
+Various minor Bugfixes
+Overhaul
+Button Config - "Record Training Dummy", "Play Training Dummy" and "Reset Position" replaced with "Save State" "Load State" and "Play/Record Training Dummy" options respectively.
+Overhaul
+Functionality added with SHENRON.asi
+This version also adds functionality with SHENRON.asi ! A work in progress program that adds various features:
+
+- Steam Invite
+- Save States / Load States (Training Mode Only)
+- Custom In-Game Announcement Boards
+- And more planned!
+
+Please head over to the official Github Page to read more!
+\\\
 10/12/2026 - MixMasterZ
-Newsletter #001
+Newsletter #002
 
 
 Thank you to all DRAGON BALL FIGHTERZ: KAI players!
