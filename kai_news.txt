@@ -90,7 +90,8 @@ Improvement
 Various minor Bugfixes
 
 Overhaul
-Button Config - "Record Training Dummy", "Play Training Dummy" and "Reset Position" replaced with "Save State" "Load State" and "Play/Record Training Dummy" options respectively.
+Button Config - "Record Training Dummy", "Play Training Dummy" and "Reset Position" replaced with "Save State" "Load State"
+and "Play/Record Training Dummy" options respectively.
 
 Overhaul
 Functionality added with SHENRON.asi
