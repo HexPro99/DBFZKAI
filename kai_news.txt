@@ -130,3 +130,14 @@ Rewards
 - In-Game recognition letting all DBFZK players know of your win!
 
 Please go to start.gg/mixmasterZ to join!
+\\\
+v0.8.6d
+MixMasterZ #1 Build
+
+v0.8.6d has been released! 
+
+MixMasterZ #1 Build! 
+
+Reverts the game back to v0.85a to avoid any new glitches that might have came up during the time being. Functionality with Shenron still remains
+
+Enjoy!
