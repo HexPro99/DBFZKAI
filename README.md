@@ -15,7 +15,7 @@ Steam Lobbies
 Steam Invite Links
 -
 1. INVITE LINKS:
-     Press F1 while inside a Ring Match Lobby to copy an invite link to your clipboard. This is able to be Ctrl+V Pasted anywhere as a unique link (ie. https://hexpro99.github.io/DBFZKAI/join.html?l=109775244982005890&o=76561198314561771 ) allowing players to join!
+     Creating a Ring Match (Or any type of joinable online lobby) automatically copies an Invite Link to your clipbaord that can be sent for friends to join. At any point you can also Press F1 while inside a Ring Match Lobby to copy an invite link to your clipboard. This is able to be Ctrl+V Pasted anywhere as a unique link (ie. https://hexpro99.github.io/DBFZKAI/join.html?l=109775244982005890&o=76561198314561771 ) allowing players to join!
 2. REFRESH INVITES:
      Press Ctrl+F1 to force reload the latest invite link accepted. Typically won't have to be used however allows manual override if for some reason the link itself crashes. Also allows loading raw Kai links (ie kai://join/109775244979936567/76561198314561771 ) if your opponent is using an older version of SHENRON
 3. CLEAR INVITES:
