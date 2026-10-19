@@ -1,4 +1,4 @@
-v0.80a
+v0.8.0a
 Hit Update! 
 Bugfix
 Broly (DBS) - Fixed issue where his ex assist was not properly taking meter cost
