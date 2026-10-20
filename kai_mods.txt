@@ -1,0 +1,7 @@
+# Shenron mod registry. One line per mod:  _TAG = name pattern [!excluded word]
+# Shenron matches the pattern against the names of the .pak files in ~mods (letters and digits only, any case, anywhere in
+# the name). The first line that matches decides the Casual Match tag; no match = normal matchmaking with everyone.
+_KAI  = DBFZ KAI
+_SYNC = DBFZSync !theme
+_SDE  = SDBFZ
+_ULT  = UDBFZ
